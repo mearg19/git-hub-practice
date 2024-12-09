@@ -6,4 +6,7 @@ public class Main {
     public static void Lwam() {
         System.out.println("i am here");
     }
+    public static void Mearg() {
+        System.out.println("ati hareeeeeeee");
+    }
 }
